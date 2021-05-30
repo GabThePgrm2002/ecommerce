@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "60a92d865ab5bf38b8dfe2b2"
+  },
+  "role": 1,
+  "cart": [],
+  "name": "ADMIN",
+  "email": "admin@arvazon.com",
+  "password": "$2b$10$TPclmX5Neid4oqpWB5clgOigLXDN3rAi8PDbskiQtTdVaB7CGIGky",
+  "createdAt": {
+    "$date": "2021-05-22T16:12:54.732Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T16:12:54.732Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a942405ab5bf38b8dfe2d0"
+  },
+  "role": 0,
+  "cart": [],
+  "name": "Gabriel",
+  "email": "gabdev.work@gmail.com",
+  "password": "$2b$10$lA0obnhSbNqHNPQDoY5.qO6YVYp7f4q0k6F.OP8GphoPlZUZMlXQ.",
+  "createdAt": {
+    "$date": "2021-05-22T17:41:20.336Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T17:42:11.225Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab5474d79a3e2bb0ab9c3e"
+  },
+  "role": 0,
+  "cart": [],
+  "name": "Gabriel",
+  "email": "gabryarva89@gmail.com",
+  "password": "$2b$10$lZQyKs/bfsHUJwjcIDWAte.eyC10IQCVMpP0635L6RAaIpDOvEqtu",
+  "createdAt": {
+    "$date": "2021-05-24T07:23:32.535Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-24T07:24:38.485Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60aca732097fe840d803dda6"
+  },
+  "role": 1,
+  "cart": [],
+  "name": "Admin",
+  "email": "admin1@arvazon.com",
+  "password": "$2b$10$Qbl1TMGY9bjvqE8/OexegOJrcbyyD4BaWx9G5w5o6QXwJJbX8xOgu",
+  "createdAt": {
+    "$date": "2021-05-25T07:28:50.462Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-25T07:28:50.462Z"
+  },
+  "__v": 0
+}]

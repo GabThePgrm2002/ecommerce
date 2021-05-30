@@ -1,0 +1,129 @@
+[{
+  "_id": {
+    "$oid": "60a942725ab5bf38b8dfe2d1"
+  },
+  "cart": [
+    {
+      "checked": false,
+      "sold": 0,
+      "_id": "60a941945ab5bf38b8dfe2cf",
+      "product_id": "pr19",
+      "title": "kindle oasis - ora con tonalità della luce regolabile - resistente all’acqua, 32 gb, wi-fi + connettività cellulare gratuita, grafite",
+      "price": 332,
+      "description": "Il nostro schermo migliore (7\", 300 ppi), con tecnologia Paperwhite e design a filo.\nTonalità della luce regolabile da bianco ad ambra.\nResistente all’acqua (IPX8), per leggere e rilassarti in spiaggia, in piscina o nella vasca da bagno. Il dispositivo Kindle è stato testato per resistere a immersioni accidentali in acqua.\nDesign sottile, leggero ed ergonomico, con appositi pulsanti VoltaPagina.\nTi permette di leggere come sulla carta stampata e, grazie alla tecnologia e-ink più all'avanguardia, puoi voltare pagina più rapidamente.\nAccesso immediato a milioni di libri.",
+      "content": "Kindle Oasis + caricatore USB",
+      "images": {
+        "public_id": "Arvazon/xbycgkr8jobcadxh8ve2",
+        "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621705030/Arvazon/xbycgkr8jobcadxh8ve2.jpg"
+      },
+      "category": "60a92e845ab5bf38b8dfe2ba",
+      "createdAt": "2021-05-22T17:38:28.519Z",
+      "updatedAt": "2021-05-22T17:38:28.519Z",
+      "__v": 0,
+      "quantity": 1
+    },
+    {
+      "checked": false,
+      "sold": 0,
+      "_id": "60a940925ab5bf38b8dfe2cd",
+      "product_id": "pr17",
+      "title": "xiaomi mi true wireless earphones 2 basic, cuffie wireless senza cavi, cancellazione rumore con dual-mic, quick paring, compatibile con ios e android, versione italiana",
+      "price": 28.99,
+      "description": "Xiaomi Mi True Wireless Earphones 2 Basic è un auricolare Bluetooth versione 5.0 che fornisce un eccellente suono e qualità di chiamata, senza fili aggrovigliati\nDal design semi-in-ear, può fornire il massimo comfort e ottima vestibilità per l'uso a lungo termine, chiamate senza rumore, cancellazione del rumore ambientale e doppio microfono per garantire un audio dalle prestazioni elevate\nMaggiore durata della batteria: la durata della batteria degli auricolari è di 5 ore a carica completa, mentre la durata totale della batteria con la sua custodia è di 20 ore\nRilevamento dell'udito: quando si toglie un auricolare, il sensore integrato può aiutare a sospendere automaticamente la musica; il doppio click di accoppiamento rapido (MIUI globale), permette invece, toccando l'auricolare due volte, di accedere al controllo di musica, telefono o assistenza vocale\nEccellente qualità del suono: le cuffie sono compatibili con AAC, che è un codec che può ottenere una qualità adatta del suono sui dispositivi iOS e Android",
+      "content": "Cuffie Xiaomi Mi True + custodia di ricarica ",
+      "images": {
+        "public_id": "Arvazon/wslnb4rhuciruvmtlihc",
+        "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621704848/Arvazon/wslnb4rhuciruvmtlihc.jpg"
+      },
+      "category": "60a92e2d5ab5bf38b8dfe2b6",
+      "createdAt": "2021-05-22T17:34:10.977Z",
+      "updatedAt": "2021-05-22T17:34:10.977Z",
+      "__v": 0,
+      "quantity": 2
+    }
+  ],
+  "status": false,
+  "user_id": "60a942405ab5bf38b8dfe2d0",
+  "name": "Gabriel",
+  "email": "gabdev.work@gmail.com",
+  "paymentID": "PAYID-MCUUEXI67C342855R682584P",
+  "address": {
+    "recipient_name": "John Doe",
+    "line1": "1 Main St",
+    "city": "San Jose",
+    "state": "CA",
+    "postal_code": "95131",
+    "country_code": "US"
+  },
+  "createdAt": {
+    "$date": "2021-05-22T17:42:10.848Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T17:42:10.848Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60ab54b5d79a3e2bb0ab9c3f"
+  },
+  "cart": [
+    {
+      "checked": false,
+      "sold": 1,
+      "_id": "60a941945ab5bf38b8dfe2cf",
+      "product_id": "pr19",
+      "title": "kindle oasis - ora con tonalità della luce regolabile - resistente all’acqua, 32 gb, wi-fi + connettività cellulare gratuita, grafite",
+      "price": 332,
+      "description": "Il nostro schermo migliore (7\", 300 ppi), con tecnologia Paperwhite e design a filo.\nTonalità della luce regolabile da bianco ad ambra.\nResistente all’acqua (IPX8), per leggere e rilassarti in spiaggia, in piscina o nella vasca da bagno. Il dispositivo Kindle è stato testato per resistere a immersioni accidentali in acqua.\nDesign sottile, leggero ed ergonomico, con appositi pulsanti VoltaPagina.\nTi permette di leggere come sulla carta stampata e, grazie alla tecnologia e-ink più all'avanguardia, puoi voltare pagina più rapidamente.\nAccesso immediato a milioni di libri.",
+      "content": "Kindle Oasis + caricatore USB",
+      "images": {
+        "public_id": "Arvazon/xbycgkr8jobcadxh8ve2",
+        "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621705030/Arvazon/xbycgkr8jobcadxh8ve2.jpg"
+      },
+      "category": "60a92e845ab5bf38b8dfe2ba",
+      "createdAt": "2021-05-22T17:38:28.519Z",
+      "updatedAt": "2021-05-22T17:42:10.846Z",
+      "__v": 0,
+      "quantity": 2
+    },
+    {
+      "checked": false,
+      "sold": 0,
+      "_id": "60a93f4a5ab5bf38b8dfe2cb",
+      "product_id": "pr15",
+      "title": "omoton tastiera wireless per pc windows 7/8/10, con ricevitore usb 2.4ghz per desktop/laptop/notebook, tastiera italiana senza fili, leggera e sottile, nera",
+      "price": 22.99,
+      "description": "1. Tastiera wireless per i pc portatili e pc fisso desktop con porta USB (Windows 10/8/7). Semplicemente collegare il ricevitore usb nel tuo computer e la tastiera funziona fra pochi secondi.\n2. Tastiera con tastierino numerico leggera e sottile. Realizzata in plastica di qualità. Facile da portare. Connessione senza filo stabile e supporta fino a 10 metri di raggio d'azione.\n3. Design a forbice, la risposta dei tasti è sensibile, la velocità di digitazione è veloce, la forza di percussione della tastiera è piccola e abbastanza bilanciata, non è facile affaticarsi dopo un uso prolungato e ci si sente a proprio agio.\n4. Layout Italiano e tasti comodi da digitare. Pulsanti in disposizione ragionevole per scrivere e facile da pulire.\n5. Risparmio Energetico. Entra in standby dopo 10 minuti di riposo. Per alimentare la tastiera necessario inserire 2 pile AAA.(Non incluse)",
+      "content": "Tastiera wireless + ricevitore USB 2.4GHz",
+      "images": {
+        "public_id": "Arvazon/vkvyh0jvuicohjsynaig",
+        "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621704520/Arvazon/vkvyh0jvuicohjsynaig.jpg"
+      },
+      "category": "60a935015ab5bf38b8dfe2bf",
+      "createdAt": "2021-05-22T17:28:42.959Z",
+      "updatedAt": "2021-05-22T17:28:42.959Z",
+      "__v": 0,
+      "quantity": 3
+    }
+  ],
+  "status": false,
+  "user_id": "60ab5474d79a3e2bb0ab9c3e",
+  "name": "Gabriel",
+  "email": "gabryarva89@gmail.com",
+  "paymentID": "PAYID-MCVVJII50163121WP473664H",
+  "address": {
+    "recipient_name": "John Doe",
+    "line1": "1 Main St",
+    "city": "San Jose",
+    "state": "CA",
+    "postal_code": "95131",
+    "country_code": "US"
+  },
+  "createdAt": {
+    "$date": "2021-05-24T07:24:37.857Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-24T07:24:37.857Z"
+  },
+  "__v": 0
+}]

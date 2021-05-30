@@ -1,0 +1,438 @@
+[{
+  "_id": {
+    "$oid": "60a932355ab5bf38b8dfe2bb"
+  },
+  "checked": false,
+  "sold": 0,
+  "product_id": "pr01",
+  "title": "novità apple iphone 12 pro max (128gb) - blu pacifico",
+  "price": 1199,
+  "description": "Display Super Retina XDR da 6,7\"\nCeramic Shield, più duro di qualsiasi vetro per smartphone\n5G per download velocissimi e streaming ad alta qualità\nA14 Bionic, il chip più veloce mai visto su uno smartphone\nSistema di fotocamere Pro da 12MP (ultra‐grandangolo, grandangolo, teleobiettivo) con estensione dello zoom ottico pari a 5x, modalità Notte, Deep Fusion, Smart HDR 3, Apple ProRAW e registrazione video HDR a 4K in Dolby Vision\nScanner LiDAR per esperienze AR ottimizzate e ritratti in modalità Notte\nFotocamera anteriore TrueDepth da 12MP con modalità Notte e registrazione video HDR a 4K in Dolby Vision\nResistenza all’acqua di grado IP68, la migliore del settore6\nCompatibilità con gli accessori MagSafe: si agganciano al volo per una ricarica wireless più veloce\niOS, con nuovi widget sulla schermata Home, nuova Libreria app, app clip e tanto altro",
+  "content": "iPhone con iOS 14, cavo da USB-C a Lightning, documentazione",
+  "images": {
+    "public_id": "Arvazon/k95ojfychxcyflgwirwl",
+    "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621701128/Arvazon/k95ojfychxcyflgwirwl.jpg"
+  },
+  "category": "60a92e145ab5bf38b8dfe2b4",
+  "createdAt": {
+    "$date": "2021-05-22T16:32:53.997Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T16:32:53.997Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a933875ab5bf38b8dfe2bc"
+  },
+  "checked": false,
+  "sold": 0,
+  "product_id": "pr02",
+  "title": "2021 apple ipad pro (11\", wi-fi, 128gb) - grigio siderale (3ª generazione)",
+  "price": 866.76,
+  "description": "Chip AppleM1 per prestazioni di un altro livello\nIncredibile display LiquidRetina da 11\"¹ con ProMotion, True Tone e ampia gamma cromatica P\nFotocamera frontale TrueDepth con ultra-grandangolo e Inquadratura automatica\nGrandangolo da 12MP, ultra-grandangolo da 10MP e scanner LiDAR per esperienze AR coinvolgenti\nWi-Fi 6 per rimanere in contatto col mondo\nUna batteria che dura tutto il giorno³\nPorta Thunderbolt / USB4 per collegare monitor, dock e unità esterne ad alta velocità\nFaceID per l’autenticazione sicura eApplePay\nAudio a quattro altoparlanti e cinque microfoni di qualità professionale\nCompatibilità con ApplePencil (2ª generazione), MagicKeyboard e SmartKeyboardFolio⁴",
+  "content": "iPad Pro, Cavo di ricarica USB‑C (1 metro), Alimentatore USB‑C da 20W",
+  "images": {
+    "public_id": "Arvazon/dp1m6ididdw2srrdtkd2",
+    "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621701508/Arvazon/dp1m6ididdw2srrdtkd2.jpg"
+  },
+  "category": "60a92e1a5ab5bf38b8dfe2b5",
+  "createdAt": {
+    "$date": "2021-05-22T16:38:31.755Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T16:38:31.755Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a934ba5ab5bf38b8dfe2bd"
+  },
+  "checked": false,
+  "sold": 0,
+  "product_id": "pr03",
+  "title": "2019 apple macbook pro (16\", 16gb ram, archiviazione 1tb) - grigio siderale",
+  "price": 3022.49,
+  "description": "Processore intel core i9 8-core di nona generazione\nSpettacolare display retina da 16\" con tecnologia true tone\nTouch bar e touch id\nGrafica amd radeon pro 5500m con memoria gddr6\nArchiviazione ssd ultraveloce",
+  "content": "MacBook Pro 16 pollici, Alimentatore USB‑C da 87W, Cavo di ricarica USB‑C (2m)",
+  "images": {
+    "public_id": "Arvazon/osbxqhuiwu0qqkz2owqr",
+    "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621701665/Arvazon/osbxqhuiwu0qqkz2owqr.jpg"
+  },
+  "category": "60a92e0d5ab5bf38b8dfe2b3",
+  "createdAt": {
+    "$date": "2021-05-22T16:43:38.007Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T16:43:38.007Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a935f35ab5bf38b8dfe2c0"
+  },
+  "checked": false,
+  "sold": 0,
+  "product_id": "pr04",
+  "title": "yosou cavo micro usb [4 pezzi:0.5m,1m,1.5m,2metri] nylon intrecciato cavo android ricarica rapida e trasferimento dati,compatibile con samsung s7/edge/s6/s5,j7/j6/j5, huawei, sony, htc, honor, ps4, lg",
+  "price": 9.39,
+  "description": "【Rapida Ricarica & Trasferimeno Dati】：Yosou cavo micro usb Ricarica più velocemente della maggior parte dei cavi standard e trasferisce i dati ad una velocità fino a 480 Mbits tramite USB 2.0，Salva il tuo tempo e facilita la tua vita.\n【Flessibilità & Durata】：Il connettore in alluminio è robusta per mantenersi in buone condizioni per un lungo periodo e garantisce una perfetta connessione.Il design in tessuto di nylon rende il Yosou cavo micro più flessibile e Sicurezza di altri cavi. Comoda la tua vita in qualsiasi scena.\n【Ampia Compatibilità】:Supporta la maggior parte dei cellulari Android e Windows, tablet dotati di porta Micro USB.Compatibile con Samsung Galaxy S7/S7 Edge/S6/S6 Edge/S5/J7/Note 3/4/5,HTC, Huawei P8/ P9 lite /P Smart ,Nexus, Nokia, LG, Sony, Honor, Xiaomi,PS4\n【Varie lunghezze，Diversi Colori】： Confezione da 4 cavo micro USB in lunghezze assortite (0,5 m / 1 m / 1,5 m / 2 Metri) per adattarsi a tutti i tuoi requisiti quotidiani di cavo usb android a casa, in ufficio e in viaggio.\n【Cosa Ottieni】：Cavo micro USB 4 pack（0,5m,1m,1,5m,2 Metri）；una garanzia gratuita di 18 mesi e Servizio clienti cordiale.Offri un'esperienza di acquisto soddisfatta al 100%.",
+  "content": "Confezione da 4 cavo micro USB in lunghezze assortite (0,5 m / 1 m / 1,5 m / 2 Metri)",
+  "images": {
+    "public_id": "Arvazon/o7leksl1cfix7p2pussg",
+    "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621701975/Arvazon/o7leksl1cfix7p2pussg.jpg"
+  },
+  "category": "60a92e515ab5bf38b8dfe2b8",
+  "createdAt": {
+    "$date": "2021-05-22T16:48:51.807Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T16:48:51.807Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a936d55ab5bf38b8dfe2c1"
+  },
+  "checked": false,
+  "sold": 0,
+  "product_id": "pr05",
+  "title": "baseus power bank 30000 mah, caricatore portatile a 3 porte usb c batteria esterna portatile, caricabatterie portatile per iphone 12 pro max, ipad, mac, samsung, huawei,xiaomi ,nintendo switch nero",
+  "price": 32.99,
+  "description": "【Grande potenza di emergenza per uragani e viaggi juice Il succo di grande capacità Baseus 30000mAh può fornire quasi 10 giorni di energia, che può caricare iPhone 10 volte, Samsung Galaxy 9.5 volte, Huawei 7 volte, iPad Mini 4 volte o iPad Pro per 1,5 volte . Non preoccuparti della stagione degli uragani o del tuo viaggio di lavoro o di altre attività all'aperto. [Nota: alta capacità, quindi il prodotto è un po 'ingombrante]\n【Ideale per la vita quotidiana con ingresso / uscita a tre porte】 Questo caricabatterie per telefono cellulare conveniente e multifunzionale può caricare 3 dispositivi contemporaneamente mentre il patto stesso può essere caricato dalla porta Tipo-C / IP / Micro, il che significa solo è sufficiente un cavo per caricare l'elettronica e le batterie. Nel frattempo, è in grado di caricare un Nintendo Switch mentre viene riprodotto. Condividi liberamente la batteria di backup con i tuoi amici o\n【Ricarica davvero veloce con uscita di tipo C 5V / 3A】 Carica quasi 2,5 volte più velocemente rispetto al caricabatterie standard per iPhone 8 e versioni successive (carica iPhone X con una corrente di 15w per 2 ore); Ricarica ad alta velocità da 15 W per MacBook (Nota: per ottenere una ricarica rapida, è necessario digitare da c al cavo IP; NON supportare la funzione QC come Samsung S9, S8, S7, Nota 8 modalità QC). Nel frattempo, questo pacco batteria esterno consente il passaggio attrav\n【Altamente compatibile con i dispositivi Mainstream】 Il chip di identificazione intelligente incorporato può adattarsi a diversi dispositivi per fornire la potenza necessaria ed essere adatto a dispositivi tradizionali tra cui telefoni cellulari, tavoli, fotocamere digitali, bracciali intelligenti, GPS, cuffie e dispositivi bluetooth rapidamente senza causare danni. [Nota: alcuni dispositivi con un ingresso inferiore a 50 mA potrebbero non essere supportati]\n【Per la vostra sicurezza e garanzia】 La sicurezza prima di tutto: certificazione FC, CE, RoHS. Cosa ottieni: 1 x banca di alimentazione 30000mAh Baseus, 1 x scheda di garanzia, 1 x manuale utente. Offriamo rimborso entro 45 giorni, assistenza clienti 24 ore su 24, 7 giorni su 7, facile da raggiungere, garanzia LIFE-TIME senza preoccupazioni e supporto tecnico a vita. ★ Non esitate a contattarci in caso di problemi con il prodotto ★",
+  "content": "1 x banca di alimentazione 30000mAh Baseus, 1 x scheda di garanzia, 1 x manuale utente.",
+  "images": {
+    "public_id": "Arvazon/k64hqb60qtrdp37exzrh",
+    "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621702253/Arvazon/k64hqb60qtrdp37exzrh.jpg"
+  },
+  "category": "60a92e395ab5bf38b8dfe2b7",
+  "createdAt": {
+    "$date": "2021-05-22T16:52:37.671Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T16:52:37.671Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a937af5ab5bf38b8dfe2c2"
+  },
+  "checked": false,
+  "sold": 0,
+  "product_id": "pr06",
+  "title": "hp-pc pavilion 14-ce3035nl notebook, intel core i7-1065g7, ram 16 gb, ssd 1 tb, nvidia geforce mx250 4 gb, windows 10 home, schermo 14” fhd antiriflesso, lettore micro sd, usb-c, hdmi, webcam, argento",
+  "price": 997,
+  "description": "Sistema operativo: Windows 10 Home\nProcessore: Intel Core i7-1065G7\nMemoria: RAM 16 GB - SSD 1 TB\nSchermo: Display 14\" FHD 1920 x 1080 IPS Antiriflesso, micro-edge, 250 nit, 45% NTSC\nCaratteristiche: Wi-Fi, Bluetooth, Webcam HP Wide Vision HD microfono digitale integrato, Audio Bang & Olufsen, HP Audio Boost, Lettore Impronte Digitali, Tastiera Retroilluminata, Lettore Micro SD\nBatteria: fino a 10 ore e 30 minuti; HP Fast Charge (ricarica rapida): circa il 50% in 45 minut",
+  "content": "Pc portatile, 1 batteria agli ioni di litio, alimentatore",
+  "images": {
+    "public_id": "Arvazon/i84wdauwaon8hoohtmkr",
+    "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621702437/Arvazon/i84wdauwaon8hoohtmkr.jpg"
+  },
+  "category": "60a92e0d5ab5bf38b8dfe2b3",
+  "createdAt": {
+    "$date": "2021-05-22T16:56:15.828Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T16:56:34.418Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a938ba5ab5bf38b8dfe2c3"
+  },
+  "checked": false,
+  "sold": 0,
+  "product_id": "pr07",
+  "title": "xiaomi mi 11 lite - smartphone 6+128gb, 6,55\" amoled dot display, snapdragon 732g, 64 mp ai tripla camera, 4250 mah, boba black",
+  "price": 279,
+  "description": "6.55 Pollici DotDisplay AMOLED 10-bit con colori vibranti- Mi 11 Lite 4G e' dotato di un display AMOLED da 6,55 \" a 90 Hz con protezione in Corning Gorilla Glass 5\nDesign superleggero, elegante e ergonomico-Il Mi 11 Lite crea una sensazione super confortevole e leggera con 6,81 mm di spessore e 157 grami di peso.\nQualcomm Snapdragon 732G- Mi 11 Lite include l'ultimo processore Qualcomm Snapdragon 732G, perfetto bilanciamento tra potenza ed efficienza\n64mp fotocamera – Mi 11 Lite integra una tripla-fotocamera con un sensore principale da 64 MP e può scattare foto ultra grandangolari in modalità landscape, ritratto e macro\nBatteria da 4250 mAh e 33W ricarica rapida- Mi 11 Lite include una batteria da 4250 mAh e supporta la ricarica rapida fino a 33W",
+  "content": "Cellulare Xiaomi Mi 11 Lite, caricatore USB",
+  "images": {
+    "public_id": "Arvazon/ya5h39r883tpzoeuteuh",
+    "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621702722/Arvazon/ya5h39r883tpzoeuteuh.jpg"
+  },
+  "category": "60a92e145ab5bf38b8dfe2b4",
+  "createdAt": {
+    "$date": "2021-05-22T17:00:42.496Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T17:00:42.496Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a939bc5ab5bf38b8dfe2c4"
+  },
+  "checked": false,
+  "sold": 0,
+  "product_id": "pr08",
+  "title": "apple airpods pro",
+  "price": 199.96,
+  "description": "Cancellazione attiva del rumore per immergerti nel suono\nModalità trasparenza per ascoltare il mondo intorno a te\nAffusolati cuscinetti in tre taglie, realizzati in morbido silicone, per un comfort su misura\nResistenti all'acqua e al sudore\nEqualizzazione adattiva che regola automaticamente la musica in base alla forma del tuo orecchio\nSetup semplicissimo su tutti i dispositivi apple\nAttivazione rapida di siri con il comando “ehi siri”\nCustodia di ricarica wireless per oltre 24 ore di autonomia",
+  "content": "Cuffie e custodia di ricarica wireless.",
+  "images": {
+    "public_id": "Arvazon/kmpt2khkkmtczayiqygc",
+    "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621703097/Arvazon/kmpt2khkkmtczayiqygc.jpg"
+  },
+  "category": "60a92e2d5ab5bf38b8dfe2b6",
+  "createdAt": {
+    "$date": "2021-05-22T17:05:00.413Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T18:15:45.708Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a93a595ab5bf38b8dfe2c5"
+  },
+  "checked": false,
+  "sold": 0,
+  "product_id": "pr09",
+  "title": "2020 apple macbook pro con chip apple m1 (13\", 8gb ram, 512gb ssd) - grigio siderale",
+  "price": 1599,
+  "description": "Chip M1 progettato da Apple, per un nuovo livello di performance della CPU, della GPU e del machine learning\nFino a 20 ore di autonomia: più di qualsiasi Mac, per fare ancora di più\nCPU 8‐core con prestazioni fino a 2,8 volte più veloci, per sfrecciare come mai prima d’ora nei flussi di lavoro\nGPU 8‐core, per una grafica fino a 5 volte più veloce nelle app e nei giochi più complessi\nNeural Engine 16‐core, per un apprendimento automatico evoluto\n8GB di memoria unificata, così tutto quello che fai è fluido e veloce\nArchiviazione SSD ultraveloce, per aprire app e file in un attimo\nSistema di raffreddamento attivo, per prestazioni mozzafiato\nDisplay Retina da 13,3\" con luminosità di 500 nit, per colori brillanti e dettagli incredibili\nVideocamera FaceTime HD con processore ISP evoluto, per videochiamate più nitide",
+  "content": "MacBook Pro 13 pollici, Alimentatore USB‑C da 61W, Cavo di ricarica USB‑C (2 m)",
+  "images": {
+    "public_id": "Arvazon/ibpampucenmgy3tt75iv",
+    "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621703245/Arvazon/ibpampucenmgy3tt75iv.jpg"
+  },
+  "category": "60a92e0d5ab5bf38b8dfe2b3",
+  "createdAt": {
+    "$date": "2021-05-22T17:07:37.667Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-25T07:32:01.488Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a93b355ab5bf38b8dfe2c6"
+  },
+  "checked": false,
+  "sold": 0,
+  "product_id": "pr10",
+  "title": "logitech mx master mouse wireless amz, bluetooth/2.4 ghz con mini ricevitore usb unifying, ‎tracciamento laser 1000 dpi qualsiasi superficie, 5 pulsanti, versione amazon, pc/mac/laptop, ‎nero grafite",
+  "price": 82.06,
+  "description": "Multispositivo: Associa fino a 3 dispositivi e passa da un computer all'altro con un solo ‎pulsante; il mouse wireless MX Master è compatibile con Bluetooth e con ricevitore Unifying\nPrecisione e Velocità: La rotella di scorrimento facilita la navigazione di documenti e ‎pagine web passando automaticamente dallo scorrimento preciso a quello veloce, sia con ‎Windows che Mac\nTracciamento Darkfield: Il mouse senza fili MX Master AMZ ti dà la ottima accuratezza del ‎cursore su praticamente qualsiasi superficie, vetro incluso ‎\nScroller Per Il Pollice: Dotato di scrolling laterale attivato con un semplice movimento del pollice; ‎per attivare tutte le ‎funzionalità installa il software Logitech Options‎\nGestione Alimentazione ottima: Fino a 40 giorni di autonomia con una ‎singola carica completa, intera giornata di utilizzo con 4 minuti di ricarica senza tempi di inattività ‎durante la ricarica\nAggiornati Con Logitech Mouse MX Master 3: ottima produttività, scorre 1000 righe in un ‎secondo, profili specifici dell'app, USB-C ricaricabile, controlli del pollice migliorati\nProdotto da Logitech: Che tu abbia bisogno di un un mouse cablato o bluetooth, mini o verticale, di un tappetino mouse pad o una tastiera per il tuo PC, Macbook, Logitech offre ottima tecnologia",
+  "content": "Mouse wireless, wireless adapter USB.",
+  "images": {
+    "public_id": "Arvazon/mkzo2ahazfgzyvsx2uyz",
+    "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621703436/Arvazon/mkzo2ahazfgzyvsx2uyz.jpg"
+  },
+  "category": "60a934f95ab5bf38b8dfe2be",
+  "createdAt": {
+    "$date": "2021-05-22T17:11:17.316Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T17:11:17.316Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a93bf85ab5bf38b8dfe2c7"
+  },
+  "checked": false,
+  "sold": 0,
+  "product_id": "pr11",
+  "title": "apple magic keyboard - italiano",
+  "price": 84.99,
+  "description": "La Magic Keyboard ha un design elegante, una batteria ricaricabile integrata e tasti ancora più evoluti.\nIl profilo è sottile, e il meccanismo a forbice sotto ciascun tasto ne aumenta la stabilità permettendo un movimento più fluido: scrivere diventa più comodo e preciso.\nSi abbina automaticamente al tuo Mac, così puoi metterti subito al lavoro.\nE la batteria dura tantissimo: potrai scrivere anche per un mese prima di doverla ricaricare.\nPorte ed espansioni: Bluetooth, Porta Lightning, Wireless\nRequisiti di sistema, iPad con iPadOS, Dispositivi iOS con iOS 9.1 o successivo\nCompatibilità: iPhone, iPad, iPad Air, iPad mini, iPad Pro, MacBook Air, MacBook Pro, MacBook, iMac, iMac Pro, Mac Pro, Mac mini",
+  "content": "Tastiera Apple Magic Keyboard",
+  "images": {
+    "public_id": "Arvazon/bzamgsfbeh2szgoayzxt",
+    "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621703666/Arvazon/bzamgsfbeh2szgoayzxt.jpg"
+  },
+  "category": "60a935015ab5bf38b8dfe2bf",
+  "createdAt": {
+    "$date": "2021-05-22T17:14:32.318Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T17:14:32.318Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a93cb55ab5bf38b8dfe2c8"
+  },
+  "checked": false,
+  "sold": 0,
+  "product_id": "pr12",
+  "title": "magic mouse 2 - space grey",
+  "price": 97.99,
+  "description": "Magic Mouse 2 è completamente ricaricabile: le batterie tradizionali non ti servono più.\nHa meno componenti perché la batteria è integrata e la parte inferiore del guscio è formata da un unico pezzo.\nIl risultato è un mouse più leggero e con una base d’appoggio ancora più stabile: ha meno attrito e scivola alla perfezione sulla scrivania.\nE sulla superficie Multi-Touch puoi usare semplici gesti come sfogliare le pagine web o scorrere documenti.\nMagic Mouse 2 è subito pronto all’uso e si abbina automaticamente al tuo Mac.\nPorte ed espansioni: Bluetooth, Porta Lightning, Wireless\nRequisiti di sistema: Mac con Bluetooth e OS X 10.11 o successivo\nCompatibilità: iPad, iPad mini, iPad Air, iPad Pro, MacBook Air, MacBook Pro, MacBook, iMac, Mac, iMac Pro, Mac Pro, Mac mini",
+  "content": "Apple Magic Mouse",
+  "images": {
+    "public_id": "Arvazon/uaq1vvgdnol8j8l7pasy",
+    "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621703858/Arvazon/uaq1vvgdnol8j8l7pasy.jpg"
+  },
+  "category": "60a934f95ab5bf38b8dfe2be",
+  "createdAt": {
+    "$date": "2021-05-22T17:17:41.450Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T17:17:41.450Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a93d775ab5bf38b8dfe2c9"
+  },
+  "checked": false,
+  "sold": 0,
+  "product_id": "pr13",
+  "title": "samsung galaxy tab s7+ tablet s pen, snapdragon 865 plus, display 12.4\" wqxga superamoled, 128gb espandibili a 1tb, ram 6gb, batteria 10.090 mah, wifi, android 10, mystic black [versione italiana] sdp",
+  "price": 769.99,
+  "description": "Goditi i video preferiti su Youtube, divertiti a giocare o crea contenuti grazie all'ampio display di Galaxy Tab S7+. La certificazione eye care (SGS) ti garantisce la massima esperienza visiva.\nL'esperienza gaming prende una nuova forma grazie al refresh rate 120Hz. Gioco più dinamico e naturale con una risposta dello schermo rapida e precisa e navigazione Web fluida e con minore latenza.\nSempre pronto per darti la migliore esperienza di intrattenimento con la sua batteria a lunga durata. Puoi goderti ore di visualizzazione senza doverti preoccupare di rimanere a corto di batteria.\nScatena la creatività con la S Pen ridisegnata. La sua bassa latenza offre l'esperienza di una penna reale. 4096 livelli di pressione per un ottimo controllo su composizioni e strumenti di disegno.\nUsa S Pen e le gesture per controllare il tablet a distanza. Scatta, presenta o riproduci grazie al collegamento bluetooth S Pen-tablet. E con l’attacco magnetico, non devi preoccuparti di perderla.\nAvvia DeX semplicemente connettendo la tastiera* e trasforma il tablet in un PC. L'interfaccia è ancora più simile a quella di un PC con la One UI 2.5.\nTutto lo spazio che vuoi, in un tablet sottilissimo. Il corpo in metallo di Galaxy Tab S7+ racchiude una memoria di 6GB abbinata a 128GB di spazio di archiviazione espandibile fino a 1TB con microSD.",
+  "content": "Samsung Galaxy Tab S7+ Tablet S Pen, cavo di ricarica USB + adattatore",
+  "images": {
+    "public_id": "Arvazon/rufvbf9jbqrjvfgo8c7v",
+    "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621703995/Arvazon/rufvbf9jbqrjvfgo8c7v.jpg"
+  },
+  "category": "60a92e1a5ab5bf38b8dfe2b5",
+  "createdAt": {
+    "$date": "2021-05-22T17:20:55.721Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T17:20:55.721Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a93e4b5ab5bf38b8dfe2ca"
+  },
+  "checked": false,
+  "sold": 0,
+  "product_id": "pr14",
+  "title": "samsung smartphone galaxy s21 5g, caricatore incluso, display 6.2\" dynamic amoled 2x, 4 fotocamere, 128 gb, ram 8gb, 4000mah, dual sim + esim, (2021) [versione italiana], grigio (phantom gray)",
+  "price": 798.99,
+  "description": "La confezione contiene anche il caricabatterie Samsung da 25W per la Ricarica rapida, per ricaricare il tuo Galaxy S21 5G. (codice prodotto EP-TA800NBEGEU)\nFotocamera da 64MP per immagini nitide. Milioni di pixel per catturare tutti i dettagli, anche quelli che non vedi ad occhio nudo\nCon lo Space Zoom 30x e l'intelligenza artificiale cogli i dettagli in maniera nitida, anche da lontano. Sfrutta lo zoom ottico ibrido 3x e lo Zoom con Risoluzione per scatti definiti\nOttieni video di cinematografia utilizzando la registrazione in 8k. Con Fermo Immagine 8k puoi anche creare foto da 33MP direttamente dai video che hai registrato\nCon Vista da Registra puoi cambiare facilimente l'angolatura della ripresa con le fotocamere posteriori, oppure registrare video utilizzando contemporaneamente la fotocamera anteriore e posteriore\nUsa Scatto Singolo per non perdere neanche un attimo. Registra per un massimo di 15 secondi e ottieni fino a 10 foto e 4 video dei tuoi momenti, da condividere con tutti\n8GB di RAM, processore Exynos 2100 da 5nm e intelligenza artificiale garantiscono performance elevate a Galaxy S21 5G. Sfrutta i 128GB di memoria interna per conservare i tuoi contenuti",
+  "content": "Smartphone con pellicola di protezione applicata, cavo type-C, guida di avviamento, estrattore metallico e caricatore 25W",
+  "images": {
+    "public_id": "Arvazon/tlkgny3gigxsz7yhasa8",
+    "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621704264/Arvazon/tlkgny3gigxsz7yhasa8.jpg"
+  },
+  "category": "60a92e145ab5bf38b8dfe2b4",
+  "createdAt": {
+    "$date": "2021-05-22T17:24:27.434Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T17:24:27.434Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a93f4a5ab5bf38b8dfe2cb"
+  },
+  "checked": false,
+  "sold": 3,
+  "product_id": "pr15",
+  "title": "omoton tastiera wireless per pc windows 7/8/10, con ricevitore usb 2.4ghz per desktop/laptop/notebook, tastiera italiana senza fili, leggera e sottile, nera",
+  "price": 22.99,
+  "description": "1. Tastiera wireless per i pc portatili e pc fisso desktop con porta USB (Windows 10/8/7). Semplicemente collegare il ricevitore usb nel tuo computer e la tastiera funziona fra pochi secondi.\n2. Tastiera con tastierino numerico leggera e sottile. Realizzata in plastica di qualità. Facile da portare. Connessione senza filo stabile e supporta fino a 10 metri di raggio d'azione.\n3. Design a forbice, la risposta dei tasti è sensibile, la velocità di digitazione è veloce, la forza di percussione della tastiera è piccola e abbastanza bilanciata, non è facile affaticarsi dopo un uso prolungato e ci si sente a proprio agio.\n4. Layout Italiano e tasti comodi da digitare. Pulsanti in disposizione ragionevole per scrivere e facile da pulire.\n5. Risparmio Energetico. Entra in standby dopo 10 minuti di riposo. Per alimentare la tastiera necessario inserire 2 pile AAA.(Non incluse)",
+  "content": "Tastiera wireless + ricevitore USB 2.4GHz",
+  "images": {
+    "public_id": "Arvazon/vkvyh0jvuicohjsynaig",
+    "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621704520/Arvazon/vkvyh0jvuicohjsynaig.jpg"
+  },
+  "category": "60a935015ab5bf38b8dfe2bf",
+  "createdAt": {
+    "$date": "2021-05-22T17:28:42.959Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-24T07:24:37.852Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a93fd65ab5bf38b8dfe2cc"
+  },
+  "checked": false,
+  "sold": 0,
+  "product_id": "pr16",
+  "title": "ornarto custodia compatibile con iphone 12 cover sottile 6,1,compatibile con iphone 12 pro cover silicone liquido protezione completa in gomma gel morbida con fodera in microfibra 6,1 verde cipro",
+  "price": 6.99,
+  "description": "[Materiale in Silicone Liquido]: Custodia per iPhone 12/iPhone 12 Pro in silicone liquido, offre una struttura durevole a due strati per una resistenza rinforzata e un tocco morbido di sempre. Inoltre, il cuscino interno in microfibra libera qualsiasi abrasione che può verificarsi abbracciando ogni angolo.\n[Protezione Completa]:La cover ricopre interamente il dispositivo - compresa la parte inferiore ed i pulsanti. Il rivestimento di 1.2 mm di spessore protegge lo schermo e la fotocamera dai graffi derivanti dal contatto diretto con le superfici. Speciale design della fotocamera smussata che fornisce una buona protezione per la fotocamera ma non interferisce con l'uso della fotocamera.\n[Elegante ed Chic]: La custodia in gomma premium per iPhone 12/iPhone 12 Pro 6,1 si distingue e conferisce sicurezza e gusto estetico al suo padrone. Mantiene sempre asciutto e pulito in quanto è molto facile rimuovere polvere e sporco sulla custodia.\n[Precisione Epica]: Progettata pensando all'iPhone, la custodia ORNARTO segue ogni sua linea e la forma della custodia in silicone liquido per iPhone si adatta perfettamente ai pulsanti del volume, al pulsante di sospensione / riattivazione e alle curve del dispositivo. Bottone tattile copre con un tocco reattivo e un facile accesso.\n[Facile da pulire]: Qualsiasi macchia presente sulla custodia si pulisce facilmente con uno straccio umido. mantieni il tuo New iPhone sempre in uno stato pulito.",
+  "content": "Custodia per Apple Iphone 12 Pro",
+  "images": {
+    "public_id": "Arvazon/nxq4zrq2kjibsfrkg6p7",
+    "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621704660/Arvazon/nxq4zrq2kjibsfrkg6p7.jpg"
+  },
+  "category": "60a92e615ab5bf38b8dfe2b9",
+  "createdAt": {
+    "$date": "2021-05-22T17:31:02.839Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T18:15:13.824Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a940925ab5bf38b8dfe2cd"
+  },
+  "checked": false,
+  "sold": 2,
+  "product_id": "pr17",
+  "title": "xiaomi mi true wireless earphones 2 basic, cuffie wireless senza cavi, cancellazione rumore con dual-mic, quick paring, compatibile con ios e android, versione italiana",
+  "price": 28.99,
+  "description": "Xiaomi Mi True Wireless Earphones 2 Basic è un auricolare Bluetooth versione 5.0 che fornisce un eccellente suono e qualità di chiamata, senza fili aggrovigliati\nDal design semi-in-ear, può fornire il massimo comfort e ottima vestibilità per l'uso a lungo termine, chiamate senza rumore, cancellazione del rumore ambientale e doppio microfono per garantire un audio dalle prestazioni elevate\nMaggiore durata della batteria: la durata della batteria degli auricolari è di 5 ore a carica completa, mentre la durata totale della batteria con la sua custodia è di 20 ore\nRilevamento dell'udito: quando si toglie un auricolare, il sensore integrato può aiutare a sospendere automaticamente la musica; il doppio click di accoppiamento rapido (MIUI globale), permette invece, toccando l'auricolare due volte, di accedere al controllo di musica, telefono o assistenza vocale\nEccellente qualità del suono: le cuffie sono compatibili con AAC, che è un codec che può ottenere una qualità adatta del suono sui dispositivi iOS e Android",
+  "content": "Cuffie Xiaomi Mi True + custodia di ricarica ",
+  "images": {
+    "public_id": "Arvazon/wslnb4rhuciruvmtlihc",
+    "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621704848/Arvazon/wslnb4rhuciruvmtlihc.jpg"
+  },
+  "category": "60a92e2d5ab5bf38b8dfe2b6",
+  "createdAt": {
+    "$date": "2021-05-22T17:34:10.977Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T17:42:10.846Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a941035ab5bf38b8dfe2ce"
+  },
+  "checked": false,
+  "sold": 0,
+  "product_id": "pr18",
+  "title": "kindle paperwhite, resistente all'acqua, schermo ad alta risoluzione da 6\", 8 gb, con pubblicità",
+  "price": 129.99,
+  "description": "Il Kindle Paperwhite più sottile e leggero che mai, con uno schermo da 300 ppi per leggere come sulla carta stampata e senza riflessi, anche alla luce diretta del sole.\nResistente all’acqua (IPX8), per leggere e rilassarti in spiaggia, in piscina o nella vasca da bagno. Il dispositivo Kindle è stato testato per resistere a immersioni accidentali in acqua.\nKindle Paperwhite è disponibile in due versioni, da 8 GB e 32 GB, per portare con te molti più libri.\nUna singola ricarica dura settimane, non solo poche ore.\nLa luce regolabile integrata ti permette di leggere in ambienti interni ed esterni, sia di giorno che di notte.\nAmpia selezione di eBook a prezzi contenuti. Scegli tra più di 5,5 milioni di titoli (di cui più di 150.000 in italiano), compresi i bestseller più recenti, titoli in esclusiva per Kindle e molto altro.",
+  "content": "Kindle Paperwhite + cavo USB",
+  "images": {
+    "public_id": "Arvazon/yrccexwot8bnivw6qsix",
+    "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621704915/Arvazon/yrccexwot8bnivw6qsix.jpg"
+  },
+  "category": "60a92e845ab5bf38b8dfe2ba",
+  "createdAt": {
+    "$date": "2021-05-22T17:36:03.747Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T17:36:03.747Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a941945ab5bf38b8dfe2cf"
+  },
+  "checked": false,
+  "sold": 3,
+  "product_id": "pr19",
+  "title": "kindle oasis - ora con tonalità della luce regolabile - resistente all’acqua, 32 gb, wi-fi + connettività cellulare gratuita, grafite",
+  "price": 332,
+  "description": "Il nostro schermo migliore (7\", 300 ppi), con tecnologia Paperwhite e design a filo.\nTonalità della luce regolabile da bianco ad ambra.\nResistente all’acqua (IPX8), per leggere e rilassarti in spiaggia, in piscina o nella vasca da bagno. Il dispositivo Kindle è stato testato per resistere a immersioni accidentali in acqua.\nDesign sottile, leggero ed ergonomico, con appositi pulsanti VoltaPagina.\nTi permette di leggere come sulla carta stampata e, grazie alla tecnologia e-ink più all'avanguardia, puoi voltare pagina più rapidamente.\nAccesso immediato a milioni di libri.",
+  "content": "Kindle Oasis + caricatore USB",
+  "images": {
+    "public_id": "Arvazon/xbycgkr8jobcadxh8ve2",
+    "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621705030/Arvazon/xbycgkr8jobcadxh8ve2.jpg"
+  },
+  "category": "60a92e845ab5bf38b8dfe2ba",
+  "createdAt": {
+    "$date": "2021-05-22T17:38:28.519Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-24T07:24:37.852Z"
+  },
+  "__v": 0
+}]

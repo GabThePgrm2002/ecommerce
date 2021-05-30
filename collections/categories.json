@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "60a92e0d5ab5bf38b8dfe2b3"
+  },
+  "name": "Laptops",
+  "createdAt": {
+    "$date": "2021-05-22T16:15:09.486Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-25T07:31:15.293Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a92e145ab5bf38b8dfe2b4"
+  },
+  "name": "Smartphone",
+  "createdAt": {
+    "$date": "2021-05-22T16:15:16.689Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T16:15:16.689Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a92e1a5ab5bf38b8dfe2b5"
+  },
+  "name": "Tablet",
+  "createdAt": {
+    "$date": "2021-05-22T16:15:22.952Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T16:15:22.952Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a92e2d5ab5bf38b8dfe2b6"
+  },
+  "name": "Earphones",
+  "createdAt": {
+    "$date": "2021-05-22T16:15:41.804Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T16:15:41.804Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a92e395ab5bf38b8dfe2b7"
+  },
+  "name": "PowerBank",
+  "createdAt": {
+    "$date": "2021-05-22T16:15:53.691Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T16:15:53.691Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a92e515ab5bf38b8dfe2b8"
+  },
+  "name": "USB Cable",
+  "createdAt": {
+    "$date": "2021-05-22T16:16:17.248Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T16:16:17.248Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a92e615ab5bf38b8dfe2b9"
+  },
+  "name": "Cover",
+  "createdAt": {
+    "$date": "2021-05-22T16:16:33.860Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T16:16:33.860Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a92e845ab5bf38b8dfe2ba"
+  },
+  "name": "Ebook Reader",
+  "createdAt": {
+    "$date": "2021-05-22T16:17:08.800Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T16:17:29.796Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a934f95ab5bf38b8dfe2be"
+  },
+  "name": "Mouse",
+  "createdAt": {
+    "$date": "2021-05-22T16:44:41.559Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T16:44:41.559Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "60a935015ab5bf38b8dfe2bf"
+  },
+  "name": "Keyboard",
+  "createdAt": {
+    "$date": "2021-05-22T16:44:49.112Z"
+  },
+  "updatedAt": {
+    "$date": "2021-05-22T16:44:49.112Z"
+  },
+  "__v": 0
+}]

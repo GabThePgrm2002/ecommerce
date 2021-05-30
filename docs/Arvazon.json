@@ -1,0 +1,321 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "version": "0.1",
+    "title": "Arvazon",
+    "description": "API che fornisce dati correlati all'applicativo Arvazon. <br> Progetto maturità 2021 5^B Informatica dell' IIS A.Avogadro. <br> <b>Autore:</b> Arva Catalin Gabriel",
+    "termsOfService": "",
+    "contact": {
+      "name": "",
+      "url": ""
+    },
+    "license": {
+      "name": "Apache 2.0",
+      "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
+    }
+  },
+  "servers": [
+    {
+      "url": ""
+    }
+  ],
+  "tags": [
+    {
+      "name": "Products",
+      "description": "Dati riguardanti i prodotti"
+    },
+    {
+      "name": "Users",
+      "description": "Dati riguardanti l'utente"
+    },
+    {
+      "name": "Categories",
+      "description": "Dati riguardanti le categorie"
+    },
+    {
+      "name": "Payments",
+      "description": "Dati riguardanti i pagamenti"
+    }
+  ],
+  "paths": {
+    "/products/": {
+      "get": {
+        "tags": [
+          "Products"
+        ],
+        "description": "Ritorna tutti i dati riguardanti i prodotti.",
+        "operationId": "ProductsfindProducts",
+        "parameters": [
+          {
+            "name": "limit",
+            "in": "query",
+            "description": "Indica quanti prodotti vanno mostrati all'utente.",
+            "required": false,
+            "schema": {
+              "type": "integer"
+            }
+          },
+          {
+            "name": "title",
+            "in": "query",
+            "description": "Indica il title da utilizzare per filtrare i prodotti.",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "category",
+            "in": "query",
+            "description": "Indica la categoria secondo la quale bisogna filtrare.",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "sort",
+            "in": "query",
+            "description": "Indica la categoria secondo la quale bisogna ordinare i prodotti.",
+            "required": false,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "summary": "Ritorna tutti i dati riguardanti i prodotti.",
+        "responses": {
+          "200": {
+            "description": "Risposta con un array di oggetti, ognuno rappresentante un prodotto",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/products"
+                },
+                "example": [{
+                    
+                        "checked": false,
+                        "sold": 7,
+                        "_id": "60a941945ab5bf38b8dfe2cf",
+                        "product_id": "pr19",
+                        "title": "kindle oasis - ora con tonalità della luce regolabile - resistente all’acqua, 32 gb, wi-fi + connettività cellulare gratuita, grafite",
+                        "price": 332,
+                        "description": "Il nostro schermo migliore (7\", 300 ppi), con tecnologia Paperwhite e design a filo.\nTonalità della luce regolabile da bianco ad ambra.\nResistente all’acqua (IPX8), per leggere e rilassarti in spiaggia, in piscina o nella vasca da bagno. Il dispositivo Kindle è stato testato per resistere a immersioni accidentali in acqua.\nDesign sottile, leggero ed ergonomico, con appositi pulsanti VoltaPagina.\nTi permette di leggere come sulla carta stampata e, grazie alla tecnologia e-ink più all'avanguardia, puoi voltare pagina più rapidamente.\nAccesso immediato a milioni di libri.",
+                        "content": "Kindle Oasis + caricatore USB",
+                        "images": {
+                            "public_id": "Arvazon/xbycgkr8jobcadxh8ve2",
+                            "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621705030/Arvazon/xbycgkr8jobcadxh8ve2.jpg"
+                        },
+                        "category": "60a92e845ab5bf38b8dfe2ba",
+                        "createdAt": "2021-05-22T17:38:28.519Z",
+                        "updatedAt": "2021-05-26T08:24:17.865Z",
+                        "__v": 0
+                },
+                {
+                  "checked": false,
+                  "sold": 0,
+                  "_id": "60a941035ab5bf38b8dfe2ce",
+                  "product_id": "pr18",
+                  "title": "kindle paperwhite, resistente all'acqua, schermo ad alta risoluzione da 6\", 8 gb, con pubblicità",
+                  "price": 129.99,
+                  "description": "Il Kindle Paperwhite più sottile e leggero che mai, con uno schermo da 300 ppi per leggere come sulla carta stampata e senza riflessi, anche alla luce diretta del sole.\nResistente all’acqua (IPX8), per leggere e rilassarti in spiaggia, in piscina o nella vasca da bagno. Il dispositivo Kindle è stato testato per resistere a immersioni accidentali in acqua.\nKindle Paperwhite è disponibile in due versioni, da 8 GB e 32 GB, per portare con te molti più libri.\nUna singola ricarica dura settimane, non solo poche ore.\nLa luce regolabile integrata ti permette di leggere in ambienti interni ed esterni, sia di giorno che di notte.\nAmpia selezione di eBook a prezzi contenuti. Scegli tra più di 5,5 milioni di titoli (di cui più di 150.000 in italiano), compresi i bestseller più recenti, titoli in esclusiva per Kindle e molto altro.",
+                  "content": "Kindle Paperwhite + cavo USB",
+                  "images": {
+                      "public_id": "Arvazon/yrccexwot8bnivw6qsix",
+                      "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1621704915/Arvazon/yrccexwot8bnivw6qsix.jpg"
+                  },
+                  "category": "60a92e845ab5bf38b8dfe2ba",
+                  "createdAt": "2021-05-22T17:36:03.747Z",
+                  "updatedAt": "2021-05-22T17:36:03.747Z",
+                  "__v": 0
+              }]
+              }
+            }
+          }
+        }
+      }
+    },
+    "api/products/": {
+      "post": {
+        "tags": [
+          "Products"
+        ],
+        "description": "Invia i dati di un prodotto al server, affinchè venga aggiunto.\n",
+        "operationId": "RegionifindAllCampo",
+        "parameters": [
+          {
+            "name": "body",
+            "in": "body",
+            "description": "Prodotto da aggiungere.",
+            "required": true,
+            "schema": {
+              "type": "Object",
+              "properties": {
+                "product_id": {
+                  "type": "string"
+              },
+              "title": {
+                  "type": "string"
+              },
+              "price": {
+                  "type": "number",
+                  "format": "float"
+              },
+              "description": {
+                  "type": "string"
+              },
+              "content": {
+                  "type": "string"
+              },
+              "images": {
+                "type": "object",
+                "properties": {
+                  "public_id": {
+                    "type": "string"
+                  },
+                  "url":  {
+                    "type": "string"
+                  }
+                }
+            },
+              "category": {
+                  "type": "string"
+              },
+              "checked": {
+                  "type": "boolean"
+              },
+              "sold": {
+                  "type": "integer"
+              }
+              }
+            }
+          }
+        ],
+        "summary": "Invia i dati del prodotto da aggiungere.",
+        "responses": {
+          "200": {
+            "description": "Risposta con un array di oggetti, ognuno rappresentante un giorno in una regione",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/products"
+                },
+                "example": { 
+                  "product_id": "pr08",
+                  "title": "Woman",
+                  "price": 1400,
+                  "description":"Beautiful Woman",
+                  "content": "content",
+                  "category":"Woman",
+                  "images": { 
+                      "public_id": "Arvazon/cyuyvy5bzgde3omc477f",
+                      "url": "https://res.cloudinary.com/gabriel0220/image/upload/v1617311408/Arvazon/cyuyvy5bzgde3omc477f.jpg"
+                      }
+                  }
+              }
+            }
+          }
+        }
+      }
+    } 
+  },
+  "components": {
+    "schemas": {
+      "products": {
+        "type": "object",
+        "properties": {
+          "product_id": {
+            "type": "string"
+        },
+        "title": {
+            "type": "string"
+        },
+        "price": {
+            "type": "number",
+            "format": "float"
+        },
+        "description": {
+            "type": "string"
+        },
+        "content": {
+            "type": "string"
+        },
+        "images": {
+            "type": "object",
+            "properties": {
+              "public_id": {
+                "type": "string"
+              },
+              "url":  {
+                "type": "string"
+              }
+            }
+        },
+        "category": {
+            "type": "string"
+        },
+        "checked": {
+            "type": "boolean"
+        },
+        "sold": {
+            "type": "integer"
+        }
+        }
+      },
+      "users": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+        },
+        "email": {
+            "type": "string"
+        },
+        "password": {
+            "type": "string"
+        },
+        "role": {
+            "type": "integer"
+        },
+        "cart": {
+            "type": "array[Object]"
+        }
+        }
+      },
+      "categories":{
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string"
+        }
+        }
+      },
+      "payments": {
+        "type": "object",
+        "properties": {
+          "user_id":  {
+            "type": "string"
+        },
+        "name": {
+            "type": "string"
+        },
+        "email": {
+            "type": "string"
+        },
+        "paymentID": {
+            "type": "string"
+        },
+        "address": {
+            "type": "object"
+        },
+        "cart": {
+            "type": "array[Object]"
+        },
+        "status": {
+            "type": "boolean"
+        }
+        }
+      }
+    }
+  }
+}
